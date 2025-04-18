@@ -1,0 +1,15 @@
+/home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/flutter_play_ground
+/home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
+/home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
