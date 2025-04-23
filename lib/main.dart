@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_play_ground/screen/homepage.dart';
+// import 'package:flutter_play_ground/screen/homepage.dart';
+import 'package:flutter_play_ground/screen/scafold.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +17,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: Homepage(),
+      // home: Homepage(),
+      home: ScafoldLearn(),
     );
   }
 }
