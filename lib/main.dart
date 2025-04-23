@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 // import 'package:flutter_play_ground/screen/containerwidget.dart';
-import 'package:flutter_play_ground/screen/rowcolumn.dart';
+import 'package:flutter_play_ground/screen/column.dart';
 // import 'package:flutter_play_ground/screen/homepage.dart';
 // import 'package:flutter_play_ground/screen/scafold.dart';
 
