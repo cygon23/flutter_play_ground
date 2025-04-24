@@ -10,6 +10,8 @@
 /home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
 /home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
 /home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/assets/pexels-sebastiaan9977-1097456.jpg
+/home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/assets/ttcl.jpeg
 /home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
 /home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
 /home/cygon24/flutter_play_ground/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
