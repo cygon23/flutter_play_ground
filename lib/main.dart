@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_play_ground/screen/bottomnavigationwidget.dart';
+import 'package:flutter_play_ground/screen/stackwidget.dart';
 //import 'package:flutter_play_ground/screen/cardwidget.dart';
 //import 'package:flutter_play_ground/screen/drawerwidget.dart';
 // import 'package:flutter_play_ground/screen/navigatorpage.dart';
@@ -44,7 +45,8 @@ class MyApp extends StatelessWidget {
       // home: Tabbarwidget(),
       // home: Cardwidget(),
       // home:Drawerwidget()
-      home: Bottomnavigationwidget(),
+      // home: Bottomnavigationwidget(),
+      home: Stackwidget(),
     );
   }
 }
