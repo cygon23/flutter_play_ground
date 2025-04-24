@@ -5,6 +5,7 @@ class Listviewidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // ignore: unused_local_variable
     final lst = List.generate(20, (index) => "$index");
     final lst1 = ["Tanznia", "kenya", "rwanda", "malawi", "uganda"];
     return Scaffold(
