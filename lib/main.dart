@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_play_ground/screen/navigatorpage.dart';
+// import 'package:flutter_play_ground/screen/navigatorpage.dart';
+import 'package:flutter_play_ground/screen/pageviewer.dart';
 // import 'package:flutter_play_ground/screen/buttonwidget.dart';
 //import 'package:flutter_play_ground/screen/textfiled.dart';
 // import 'package:flutter_play_ground/screen/imagewidget.dart';
@@ -34,7 +35,8 @@ class MyApp extends StatelessWidget {
       // home: Imagewidget(),
       // home: Buttonwidget(),
       // home: Textfiled(),
-      home: Navigatorpage(),
+      // home: Navigatorpage(),
+      home: Pageviewer(),
     );
   }
 }
