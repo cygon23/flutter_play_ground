@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_play_ground/screen/buttonwidget.dart';
+// import 'package:flutter_play_ground/screen/buttonwidget.dart';
+import 'package:flutter_play_ground/screen/textfiled.dart';
 // import 'package:flutter_play_ground/screen/imagewidget.dart';
 // import 'package:flutter_play_ground/screen/containerwidget.dart';
 // import 'package:flutter_play_ground/screen/column.dart';
@@ -30,7 +31,8 @@ class MyApp extends StatelessWidget {
       // home: Rowcolumn(),
       // home: Listviewidget(),
       // home: Imagewidget(),
-      home: Buttonwidget(),
+      // home: Buttonwidget(),
+      home: Textfiled(),
     );
   }
 }
