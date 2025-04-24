@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_play_ground/screen/bottomnavigationwidget.dart';
 import 'package:flutter_play_ground/screen/stackwidget.dart';
+import 'package:flutter_play_ground/screen/whatsappui.dart';
 //import 'package:flutter_play_ground/screen/cardwidget.dart';
 //import 'package:flutter_play_ground/screen/drawerwidget.dart';
 // import 'package:flutter_play_ground/screen/navigatorpage.dart';
@@ -29,8 +30,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       theme: ThemeData(
-        // colorScheme: ColorScheme.fromSeed(seedColor: Colors.red),
-        primarySwatch: Colors.red
+        // colorScheme: ColorScheme.fromSeed(seedColor: Colors.white),
+        // primarySwatch: Colors.red
       ),
       // home: Homepage(),
       // home: ScafoldLearn(),
@@ -46,7 +47,8 @@ class MyApp extends StatelessWidget {
       // home: Cardwidget(),
       // home:Drawerwidget()
       // home: Bottomnavigationwidget(),
-      home: Stackwidget(),
+      // home: Stackwidget(),
+      home: Whatsapui()
     );
   }
 }
