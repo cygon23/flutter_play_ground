@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_play_ground/screen/imagewidget.dart';
+import 'package:flutter_play_ground/screen/buttonwidget.dart';
+// import 'package:flutter_play_ground/screen/imagewidget.dart';
 // import 'package:flutter_play_ground/screen/containerwidget.dart';
 // import 'package:flutter_play_ground/screen/column.dart';
 //import 'package:flutter_play_ground/screen/listviewidget.dart';
@@ -20,14 +21,16 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        // colorScheme: ColorScheme.fromSeed(seedColor: Colors.red),
+        primarySwatch: Colors.red
       ),
       // home: Homepage(),
       // home: ScafoldLearn(),
       // home: Containerwidget(),
       // home: Rowcolumn(),
       // home: Listviewidget(),
-      home: Imagewidget(),
+      // home: Imagewidget(),
+      home: Buttonwidget(),
     );
   }
 }
